@@ -38,7 +38,6 @@ From the command line, run:
 `npm run start`
 
 
-
 ## Usage
 
 Once all the packages have been installed, open terminal and run the following:
@@ -51,7 +50,7 @@ Navigate to Postman or other API testing site and test the Categories, Products,
 
 ## Credits
 
-Starter Code by Xandromus [https://github.com/Xandromus] & repo [https://github.com/coding-boot-camp/fantastic-umbrella]
+Starter Code by Xandromus https://github.com/coding-boot-camp/fantastic-umbrella
 
 University of Minnesota lectures and materials.
 
