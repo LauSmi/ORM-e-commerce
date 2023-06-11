@@ -17,7 +17,7 @@ The challenge for this project was to build the back end portion of an e-commerc
 
 GitHub repository: https://github.com/LauSmi/ORM-e-commerce
 
-Link to video walk-through: https://drive.google.com/file/d/1K139KyQoNdks0awv1ZkC67xTk7mKqB89/view
+Link to video walk-through: https://drive.google.com/file/d/1K139KyQoNdks0awv1ZkC67xTk7mKqB89/view?usp=sharing
 
 ## Installation
 
